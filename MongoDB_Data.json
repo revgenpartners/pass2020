@@ -1,0 +1,402 @@
+[
+
+{
+
+"_id": "Isaac Marthe - Untitled 21",
+
+"Artist": "Isaac Marthe",
+
+"Title": "Untitled 21",
+
+"Dimensions": [
+
+{
+
+"Width": 67,
+
+"Height": 59
+
+}
+
+],
+
+"Location": "Museum, Room 155",
+
+"LocationHistory": [
+
+"Denver Art Museum",
+
+"The Art Institute of Chicago",
+
+"Museum, Room 155"
+
+],
+
+"Type": "Painting, Mixed Media",
+
+"Value": 3000,
+
+"Currency": "US Dollars"
+
+}
+
+,
+
+{
+
+"_id": "William Oxer - The Chalice",
+
+"Artist": "William Oxer",
+
+"Title": "The Chalice",
+
+"Dimensions": [
+
+{
+
+"Width": 12,
+
+"Height": 12
+
+}
+
+],
+
+"Location": "Museum, Room 156",
+
+"LocationHistory": [
+
+"Museum, Room 156"
+
+],
+
+"Type": "Painting, Acrylic",
+
+"Value": 1800,
+
+"Currency": "US Dollars"
+
+}
+,
+
+{
+
+"_id": "William Oxer - The Glance",
+
+"Artist": "William Oxer",
+
+"Title": "The Glance",
+
+"Dimensions": [
+
+{
+
+"Width": 16,
+
+"Height": 23
+
+}
+
+],
+
+"Location": "Museum, Room 156",
+
+"LocationHistory": [
+
+"MOMA",
+
+"Museum, Room 156"
+
+],
+
+"Type": "Painting, Acrylic",
+
+"Value": 3200,
+
+"Currency": "US Dollars"
+
+}
+
+,
+
+{
+
+"_id": "William Oxer - Thinking of a Loved One",
+
+"Artist": "William Oxer",
+
+"Title": "Thinking of a Loved One",
+
+"Dimensions": [
+
+{
+
+"Width": 12,
+
+"Height": 12
+
+}
+
+],
+
+"Location": "MOMA",
+
+"LocationHistory": [
+
+"Storage",
+
+"MOMA"
+
+],
+
+"Type": "Painting, Acrylic",
+
+"Value": 1700,
+
+"Currency": "US Dollars"
+
+}
+
+,
+
+{
+
+"_id": "Isaac Marthe - Untitled 33",
+
+"Artist": "Isaac Marthe",
+
+"Title": "Untitled 33",
+
+"Dimensions": [
+
+{
+
+"Width": 43,
+
+"Height": 52
+
+}
+
+],
+
+"Location": "Storage",
+
+"LocationHistory": [
+
+"Storage"
+
+],
+
+"Type": "Painting, Mixed Media",
+
+"Value": 2300,
+
+"Currency": "US Dollars"
+
+}
+
+,
+
+{
+
+"_id": "Leonardo DaVinci - Mona Lisa",
+
+"Artist": "Leonardo DaVinci",
+
+"Title": "Mona Lisa",
+
+"Dimensions": [
+
+{
+
+"Width": 15,
+
+"Height": 21
+
+}
+
+],
+
+"Location": "Louvre",
+
+"LocationHistory": [
+
+"The Metropolitan Museum of Art",
+
+"Museum, Room 170",
+
+"Louvre"
+
+],
+
+"Type": "Painting, Oil",
+
+"Value": 50000000,
+
+"Currency": "US Dollars"
+
+}
+
+,
+
+{
+
+"_id": "Leonardo DaVinci - Lady with an Ermine",
+
+"Artist": "Leonardo DaVinci",
+
+"Title": "Lady with an Ermine",
+
+"Dimensions": [
+
+{
+
+"Width": 15,
+
+"Height": 21
+
+}
+
+],
+
+"Location": "Museum, Room 200",
+
+"LocationHistory": [
+
+"Museum, Room 200"
+
+],
+
+"Type": "Painting, Oil",
+
+"Value": 25000000,
+
+"Currency": "US Dollars"
+
+}
+
+,
+
+{
+
+"_id": "Pablo Picasso - Violin",
+
+"Artist": "Pablo Picasso",
+
+"Title": "Violin",
+
+"Dimensions": [
+
+{
+
+"Width": 29,
+
+"Height": 39
+
+}
+
+],
+
+"Location": "Storage",
+
+"LocationHistory": [
+
+"Museum, Room 175",
+
+"MOMA",
+
+"Denver Art Museum",
+
+"Storage"
+
+],
+
+"Type": "Painting, Oil",
+
+"Value": 80000000,
+
+"Currency": "US Dollars"
+
+}
+
+,
+
+{
+
+"_id": "Auguste Rodin - The Thinker",
+
+"Artist": "Auguste Rodin",
+
+"Title": "The Thinker",
+
+"Dimensions": [
+
+{
+
+"Height": 73,
+
+"lbs": 300
+
+}
+
+],
+
+"Location": "Museum, Room 12",
+
+"LocationHistory": [
+
+"Museum, Room 12"
+
+],
+
+"Type": "Sculpture, Bronze",
+
+"Value": 15000000,
+
+"Currency": "US Dollars"
+
+}
+
+,
+
+{
+
+"_id": "Unknown - Athena",
+
+"Artist": "Unknown",
+
+"Title": "Athena",
+
+"Dimensions": [
+
+{
+
+"Height": 73,
+
+"Width": 36,
+
+"Depth": 36,
+
+"lbs": 800
+
+}
+
+],
+
+"Location": "Storage",
+
+"LocationHistory": [
+
+"Storage"
+
+],
+
+"Type": "Sculpture, Stone",
+
+"Value": 30000000,
+
+"Currency": "US Dollars"
+
+}
+
+]
